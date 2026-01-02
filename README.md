@@ -36,9 +36,9 @@
 ## 🚀 Current Ventures (Stealth)
 | Project | Description | Status |
 |---------|-------------|--------|
-| 🔒 Project A | Decentralized mobility platform | Stealth |
-| 🔒 Project B | AI-powered personal fitness intelligence | Stealth |
-| 🔒 Project C | Market intelligence & strategy tool | Stealth |
+| 🔒 Project Alpha | 🔹 Stealth operations ongoing | Stealth |
+| 🔒 Project Beta  | 🔹 Under confidential development | Stealth |
+| 🔒 Project Gamma | 🔹 Exploration & innovation in progress | Stealth |
 
 ---
 
