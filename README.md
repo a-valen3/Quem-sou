@@ -1,54 +1,67 @@
-<!-- ✨ README.md by Andreza C G Santos | SynergyXZK ✨ -->
+<!-- ✨ README.md by Andreza Valen | SynergyXZK ✨ -->
 
-<h1 align="center">👋 Hey there, I'm Andreza Santos</h1>
-<h3 align="center">Founder & Tech Innovator | Bridging Blockchain, AI & Real-World Impact</h3>
+<h1 align="center">👋 Hi, I’m Andreza Vanlen </h1>
+<h3 align="center">
+Founder & Tech Innovator · Blockchain · AI · Zero-Knowledge  
+<br/>
+Building privacy-first technology with real-world impact
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stack-Next.js%20|%20React%20|%20Node.js-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blockchain-Polygon%20|%20ZK%20Proofs-24DDBC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design-UX%2FUI%20|%20Product%20Design-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Intelligence%20with%20Purpose-24DDBC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js%20|%20React-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20|%20APIs-24DDBC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blockchain-Polygon%20|%20ZK-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Human--Centered%20Intelligence-24DDBC?style=for-the-badge" />
 </p>
 
-### 🔬 Research & Identity
-
-<a href="https://orcid.org/0000-0001-8587-7984" target="_blank" rel="noopener noreferrer">
-  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" />
-  https://orcid.org/0000-0001-8587-7984
-</a>
+---
 
 ## 🧬 About Me  
-> Coding the bridge between people and technology.  
-> Vision first, privacy always.  
-> I believe the future belongs to quem integra **inteligência, design e propósito**.
+
+> I design and build bridges between **people, technology, and trust**.  
+> Vision-led. Privacy-first. Impact-driven.  
+>  
+> I believe the future belongs to those who integrate  
+> **intelligence, design, and purpose** — seamlessly.
+
+Founder & CEO, a technology ecosystem focused on applying  
+**Blockchain, Artificial Intelligence, and Zero-Knowledge Proofs**  
+to everyday human challenges.
+
+---
+
+## 🔬 Research & Academic Identity  
+
+- **ORCID iD:** https://orcid.org/0000-0001-8587-7984  
+- **Elsevier Author Profile:** https://www.elsevier.com/pt-br/researcher/author  
+- **Mendeley Profile:** https://www.mendeley.com/  
+- **NCBI / PubMed:** https://www.ncbi.nlm.nih.gov/ 
+- **NSF ID:** 0000A4LYL  
 
 ---
 
 ## 🧠 What I Do  
-- 🛠️ Building **decentralized, privacy-first solutions** across mobility, health, and performance  
-- 🔐 Designing with **Zero-Knowledge Proofs (ZK)** for security and trust  
-- ⚙️ Integrating **AI + Blockchain** to solve real-world challenges  
-- 🌱 Innovating with **sustainable, human-centered design**  
 
-*(Stealth projects in development — details confidential.)*
-
----
-
-## 🚀 Currently Building  
-> Pioneering decentralized experiences that **unlock human potential and connectivity**.  
-> Privacy by design. Impact at scale.
+- 🛠️ Build **decentralized, privacy-first products**  
+- 🔐 Architect systems using **Zero-Knowledge Proofs**  
+- ⚙️ Combine **AI + Blockchain** to create scalable, trustworthy solutions  
+- 🌱 Design technology that is **ethical, human-centered, and impactful**
 
 ---
 
-## 🛠 Competências Essenciais e Conjunto de Tecnologias
-- **Frontend:** React | Next.js | Chakra UI  
-- **Backend e API:** Node.js | Supabase | Integrações seguras  
-- **Blockchain:** Solidity | Polygon | ZK Proofs  
-- **Pagamentos & Cripto:** PIX | Metamask | Trust Wallet  
-- **Analytics & Insights:** Subgraph  
+## 🛠 Core Skills & Technologies  
+
+- **Frontend:** React · Next.js · Chakra UI  
+- **Backend & APIs:** Node.js · Supabase · Secure integrations  
+- **Blockchain:** Solidity · Polygon · Zero-Knowledge Proofs  
+- **Payments & Crypto:** PIX · MetaMask · Trust Wallet  
+- **Data & Analytics:** Subgraphs · On-chain insights  
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack Snapshot  
+
 ```text
-Next.js | React | Node.js | Polygon | Hardhat | Alchemy | Firebase | Web3 | ZK Proofs | UX/UI | Product Design
+Next.js · React · Node.js · Polygon · Solidity · ZK Proofs · Web3
+Supabase · Firebase · Hardhat · Alchemy
+UX/UI · Product Design · Human-Centered Systems
