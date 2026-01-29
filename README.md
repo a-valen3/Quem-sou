@@ -20,7 +20,8 @@ Building privacy-first technology with real-world impact
 
 > I design and build bridges between **people, technology, and security**.
 >
-> Driven by vision and purpose. Prioritizing privacy. Focused on real impact. 
+> Driven by vision and purpose.
+> Prioritizing privacy. Focused on real impact. 
 > I believe the future belongs to those who integrate  
 > **intelligence, design, and purpose** — seamlessly.
 
