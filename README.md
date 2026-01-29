@@ -35,8 +35,8 @@ to everyday human challenges.
 
 - **ORCID iD:** https://orcid.org/0000-0001-8587-7984  
 - **Elsevier Author Profile:** https://www.elsevier.com/pt-br/researcher/author  
-- **Mendeley Profile:** https://www.mendeley.com/  
-- **NCBI / PubMed:** https://www.ncbi.nlm.nih.gov/ 
+- **Mendeley Profile:** https://www.mendeley.com/andrezavalen  
+- **NCBI / PubMed:** https://www.ncbi.nlm.nih.gov/andrezavalen
 - **NSF ID:** 0000A4LYL  
 
 ---
