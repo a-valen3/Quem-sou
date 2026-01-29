@@ -10,7 +10,12 @@
   <img src="https://img.shields.io/badge/AI-Intelligence%20with%20Purpose-24DDBC?style=for-the-badge" />
 </p>
 
----
+### 🔬 Research & Identity
+
+<a href="https://orcid.org/0000-0001-8587-7984" target="_blank" rel="noopener noreferrer">
+  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" />
+  https://orcid.org/0000-0001-8587-7984
+</a>
 
 ## 🧬 About Me  
 > Coding the bridge between people and technology.  
