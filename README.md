@@ -1,6 +1,6 @@
 <!-- ✨ README.md by Andreza Valen | SynergyXZK ✨ -->
 
-<h1 align="center">👋 Hi, I’m Andreza Vanlen </h1>
+<h1 align="center">👋 Hi, I’m Andreza Valen </h1>
 <h3 align="center">
 Founder & Tech Innovator · Blockchain · AI · Zero-Knowledge  
 <br/>
