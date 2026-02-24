@@ -1,68 +1,67 @@
-<!-- ✨ README.md by Andreza Valen | SynergyXZK ✨ -->
+<!-- README.md by Andreza Valen | SynergyXZK -->
 
-<h1 align="center">👋 Hi, I’m Andreza Valen </h1>
+<h1 align="center">Andreza Valen</h1>
 <h3 align="center">
-Founder & Tech Innovator · Blockchain · AI · Zero-Knowledge  
+Founder & Strategic Architect · Sovereign Digital Infrastructure  
 <br/>
-Building privacy-first technology with real-world impact
+Blockchain · AI · Zero-Knowledge Systems
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Next.js%20|%20React-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20|%20APIs-24DDBC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20|%20Secure%20APIs-24DDBC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blockchain-Polygon%20|%20ZK-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Human--Centered%20Intelligence-24DDBC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Privacy%20|%20Governance-24DDBC?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧬 About Me  
+## 🧬 Architectural Thesis
 
-> I design and build bridges between **people, technology, and security**.
->
-> Driven by vision and purpose.
-> Prioritizing privacy. Focused on real impact. 
-> I believe the future belongs to those who integrate  
-> **intelligence, design, and purpose** — seamlessly.
+I design and build sovereign digital infrastructure  
+where privacy, security, and governance are structural constraints — not optional layers.
 
-Founder & CEO, a technology ecosystem focused on applying  
-**Blockchain, Artificial Intelligence, and Zero-Knowledge Proofs**  
-to everyday human challenges.
+Infrastructure before product.  
+Privacy, security, and governance before scale.
 
----
-
-## 🔬 Research & Academic Identity  
-
-- **ORCID iD:** https://orcid.org/0000-0001-8587-7984  
-- **Elsevier Author Profile:** https://www.elsevier.com/pt-br/researcher/author  
-- **Mendeley Profile:** https://www.mendeley.com/andrezavalen  
-- **NCBI / PubMed:** https://www.ncbi.nlm.nih.gov/andrezavalen
-- **NSF ID:** 0000A4LYL  
+Founder of a technology ecosystem applying  
+Blockchain, Artificial Intelligence, and Zero-Knowledge architectures  
+to real-world coordination and operational systems.
 
 ---
 
-## 🧠 What I Do  
+## 🔐 Core Domain
 
-- 🛠️ Build **decentralized, privacy-first products**  
-- 🔐 Architect systems using **Zero-Knowledge Proofs**  
-- ⚙️ Combine **AI + Blockchain** to create scalable, trustworthy solutions  
-- 🌱 Design technology that is **ethical, human-centered, and impactful**
-
----
-
-## 🛠 Core Skills & Technologies  
-
-- **Frontend:** React · Next.js · Chakra UI  
-- **Backend & APIs:** Node.js · Supabase · Secure integrations  
-- **Blockchain:** Solidity · Polygon · Zero-Knowledge Proofs  
-- **Payments & Crypto:** PIX · MetaMask · Trust Wallet  
-- **Data & Analytics:** Subgraphs · On-chain insights  
+- Architecting privacy-first systems  
+- Implementing governance-aware backend logic  
+- Designing scalable Web3 infrastructure  
+- Integrating AI within secure, verifiable frameworks  
 
 ---
 
-## 💻 Tech Stack Snapshot  
+## 🛠 Technical Stack
 
-```text
-Next.js · React · Node.js · Polygon · Solidity · ZK Proofs · Web3
-Supabase · Firebase · Hardhat · Alchemy
-UX/UI · Product Design · Human-Centered Systems
+Frontend  
+Next.js · React · Chakra UI  
+
+Backend & Infrastructure  
+Node.js · Secure APIs · Supabase · Hardhat  
+
+Blockchain  
+Solidity · Polygon · Zero-Knowledge Proofs  
+
+Data & Indexing  
+Subgraphs · On-chain analytics  
+
+Payments  
+PIX · Web3 Wallet Integrations  
+
+---
+
+## 🧠 Systems Philosophy
+
+Security and privacy are not features.  
+They are architectural commitments.
+
+Scalability without governance is fragility.  
+Growth without infrastructure is noise.
